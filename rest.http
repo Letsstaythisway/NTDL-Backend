@@ -1,0 +1,19 @@
+# NOT TO DO LIST API
+@baseUrl = http://localhost:5500
+
+
+### POST THE TASK LIST
+
+POST {{baseUrl}}
+
+### GET THE TASK LIST
+GET {{baseUrl}}
+
+
+### UPDATE THETASK LIST
+PUT {{baseUrl}}
+
+
+
+### DELETE THE TASK LIST
+DEL {{baseUrl}}
